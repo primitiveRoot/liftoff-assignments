@@ -9,9 +9,9 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-* ![Create Event](https://raw.githubusercontent.com/primitiveRoot/liftoff-assignments/master/P3-Project_Planning/Wireframe1.gif)
-* ![Search Events](https://raw.githubusercontent.com/primitiveRoot/liftoff-assignments/master/P3-Project_Planning/Wireframe2.gif)
-* ![Login/Register](https://raw.githubusercontent.com/primitiveRoot/liftoff-assignments/master/P3-Project_Planning/Wireframe3.gif)
+* ![Create Event](https://github.com/primitiveRoot/liftoff-assignments/blob/master/P3-Project_Planning/Wireframe1.gif)
+* ![Search Events](https://github.com/primitiveRoot/liftoff-assignments/blob/master/P3-Project_Planning/Wireframe2.gif)
+* ![Login/Register](https://github.com/primitiveRoot/liftoff-assignments/blob/master/P3-Project_Planning/Wireframe3.gif)
 ### Project Tracker
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
